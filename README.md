@@ -5,6 +5,6 @@ I felt that most students at Eastfield don't know all the free tutoring services
 
 This app was made with Android Studio and is published on Google Play. It can be downloaded here as well. This was built using fragments and uses a bottom navigation to get to each section of the app. It is based of off the Eastfield Libary Tutoring website http://libguides.eastfieldcollege.edu/tutoring 
 
-![screenshot_20171230-155035](https://user-images.githubusercontent.com/31392609/34459871-e968d336-edc2-11e7-967a-b163ebad1645.png)
+![screenshot_20171230-155035](https://user-images.githubusercontent.com/31392609/34459898-b5162b46-edc3-11e7-90f4-15ba0c95efed.png)
 
-![screenshot_20171230-155052](https://user-images.githubusercontent.com/31392609/34459872-ec45495e-edc2-11e7-88c7-60598b4585c4.png)
+![screenshot_20171230-155052](https://user-images.githubusercontent.com/31392609/34459899-b531985e-edc3-11e7-9bba-9c06279edaa3.png)
